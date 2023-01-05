@@ -4,7 +4,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 [GitHub sayfam](https://github.com/deryatas "GitHub Sayfam")
 
-[Örnek resim verilmiştir.](analog.jpg "Github")
+![Örnek resim verilmiştir.](analog.jpg "Github")
 
 
 
