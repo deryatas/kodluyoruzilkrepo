@@ -3,7 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ## Ödev
 [GitHub sayfam](https://github.com/deryatas "GitHub Sayfam")
 
-![Photo by Roman Synkevych on Unsplash](./assets/image_unsplash.jpg "GitHub")
+![Proje için örnek görüntü verilmiştirç](C:\Users\DERYA TAŞ\Documents\GitHub\kodluyoruzilkrepo\analog.jpg)
 
 
 
